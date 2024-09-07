@@ -1,0 +1,85 @@
+{"time": "2024-09-06 20:31:29", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-06 20:31:29", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-06 20:58:02", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-06 20:58:02", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-06 20:59:00", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-06 20:59:11", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-06 20:59:11", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-06 21:00:01", "level": "ERROR", "message": "Request was failed with status code: 500. Data: Internal server error"}
+{"time": "2024-09-06 21:00:01", "level": "ERROR", "message": "Request was failed with status code: 500. Data: Internal server error"}
+{"time": "2024-09-06 21:00:03", "level": "ERROR", "message": "Request was failed with status code: 500. Data: Internal server error"}
+{"time": "2024-09-06 21:00:03", "level": "ERROR", "message": "Request was failed with status code: 500. Data: Internal server error"}
+{"time": "2024-09-06 21:00:03", "level": "ERROR", "message": "Request was failed with status code: 500. Data: Internal server error"}
+{"time": "2024-09-06 21:00:04", "level": "ERROR", "message": "Request was failed with status code: 500. Data: Internal server error"}
+{"time": "2024-09-06 21:00:04", "level": "ERROR", "message": "Request was failed with status code: 500. Data: Internal server error"}
+{"time": "2024-09-06 21:00:05", "level": "ERROR", "message": "Request was failed with status code: 500. Data: Internal server error"}
+{"time": "2024-09-06 21:00:06", "level": "ERROR", "message": "Request was failed with status code: 500. Data: Internal server error"}
+{"time": "2024-09-06 21:00:07", "level": "ERROR", "message": "Request was failed with status code: 500. Data: Internal server error"}
+{"time": "2024-09-06 21:00:07", "level": "ERROR", "message": "Request was failed with status code: 500. Data: Internal server error"}
+{"time": "2024-09-06 21:00:07", "level": "ERROR", "message": "Request was failed with status code: 500. Data: Internal server error"}
+{"time": "2024-09-06 21:02:34", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-06 21:02:46", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-06 21:02:46", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-06 21:06:23", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-06 21:06:36", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-06 21:06:36", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-06 21:06:47", "level": "ERROR", "message": "StateManager.set_state() missing 1 required positional argument: 'state_name'"}
+{"time": "2024-09-06 21:06:52", "level": "ERROR", "message": "StateManager.set_state() missing 1 required positional argument: 'state_name'"}
+{"time": "2024-09-06 21:06:57", "level": "ERROR", "message": "StateManager.set_state() missing 1 required positional argument: 'state_name'"}
+{"time": "2024-09-06 21:07:02", "level": "ERROR", "message": "StateManager.set_state() missing 1 required positional argument: 'state_name'"}
+{"time": "2024-09-06 21:07:08", "level": "ERROR", "message": "StateManager.set_state() missing 1 required positional argument: 'state_name'"}
+{"time": "2024-09-06 21:07:13", "level": "ERROR", "message": "StateManager.set_state() missing 1 required positional argument: 'state_name'"}
+{"time": "2024-09-06 21:07:18", "level": "ERROR", "message": "StateManager.set_state() missing 1 required positional argument: 'state_name'"}
+{"time": "2024-09-06 21:07:24", "level": "ERROR", "message": "StateManager.set_state() missing 1 required positional argument: 'state_name'"}
+{"time": "2024-09-06 21:09:07", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-06 21:09:07", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-06 21:13:59", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-06 21:14:14", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-06 21:14:14", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-06 21:15:27", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-06 21:15:39", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-06 21:15:39", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-06 21:24:07", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-06 21:24:28", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-06 21:24:28", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-06 21:27:14", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-06 21:27:37", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-06 21:27:37", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-06 21:30:00", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-06 21:30:14", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-06 21:30:14", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-07 00:47:07", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-07 00:47:07", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-07 00:47:35", "level": "ERROR", "message": "Request was failed with status code: 400. Data: {\n    \"statusCode\": 400,\n    \"timestamp\": \"2024-09-06T19:47:35.804Z\",\n    \"path\": \"/waInstance7103112435/sendMessage/b9484b0671734f49bd3eb6568eecbda3bad279ce0b2f4bdbbf\",\n    \"message\": \"Validation failed. Details: 'message' must be a string\"\n}"}
+{"time": "2024-09-07 00:50:00", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-07 00:50:13", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-07 00:50:13", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-07 00:50:48", "level": "ERROR", "message": "Request was failed with status code: 400. Data: {\n    \"statusCode\": 400,\n    \"timestamp\": \"2024-09-06T19:50:48.941Z\",\n    \"path\": \"/waInstance7103112435/sendMessage/b9484b0671734f49bd3eb6568eecbda3bad279ce0b2f4bdbbf\",\n    \"message\": \"Validation failed. Details: 'message' must be a string\"\n}"}
+{"time": "2024-09-07 00:53:30", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-07 01:40:10", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-07 01:40:10", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-07 01:40:36", "level": "ERROR", "message": "Request was failed with status code: 400. Data: {\n    \"statusCode\": 400,\n    \"timestamp\": \"2024-09-06T20:40:38.019Z\",\n    \"path\": \"/waInstance7103112435/sendMessage/b9484b0671734f49bd3eb6568eecbda3bad279ce0b2f4bdbbf\",\n    \"message\": \"Validation failed. Details: 'message' must be a string\"\n}"}
+{"time": "2024-09-07 01:42:38", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-07 01:42:53", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-07 01:42:53", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-07 01:43:04", "level": "ERROR", "message": "Request was failed with status code: 400. Data: {\n    \"statusCode\": 400,\n    \"timestamp\": \"2024-09-06T20:43:05.488Z\",\n    \"path\": \"/waInstance7103112435/sendMessage/b9484b0671734f49bd3eb6568eecbda3bad279ce0b2f4bdbbf\",\n    \"message\": \"Validation failed. Details: 'message' must be a string\"\n}"}
+{"time": "2024-09-07 01:44:53", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-07 01:45:17", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-07 01:45:17", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-07 01:45:46", "level": "ERROR", "message": "Request was failed with status code: 400. Data: {\n    \"statusCode\": 400,\n    \"timestamp\": \"2024-09-06T20:45:47.284Z\",\n    \"path\": \"/waInstance7103112435/sendMessage/b9484b0671734f49bd3eb6568eecbda3bad279ce0b2f4bdbbf\",\n    \"message\": \"Validation failed. Details: 'message' must be a string\"\n}"}
+{"time": "2024-09-07 10:39:40", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-07 10:39:40", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-07 10:40:02", "level": "ERROR", "message": "Request was failed with status code: 400. Data: {\n    \"statusCode\": 400,\n    \"timestamp\": \"2024-09-07T05:40:03.317Z\",\n    \"path\": \"/waInstance7103112435/sendMessage/b9484b0671734f49bd3eb6568eecbda3bad279ce0b2f4bdbbf\",\n    \"message\": \"Validation failed. Details: 'message' must be a string\"\n}"}
+{"time": "2024-09-07 10:40:22", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-07 10:40:33", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-07 10:40:33", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-07 10:42:17", "level": "ERROR", "message": "Request was failed with status code: 400. Data: {\n    \"statusCode\": 400,\n    \"timestamp\": \"2024-09-07T05:42:18.711Z\",\n    \"path\": \"/waInstance7103112435/sendMessage/b9484b0671734f49bd3eb6568eecbda3bad279ce0b2f4bdbbf\",\n    \"message\": \"Validation failed. Details: 'message' must be a string\"\n}"}
+{"time": "2024-09-07 10:43:39", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-07 10:43:52", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-07 10:43:52", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-07 10:47:25", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-07 10:47:51", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-07 10:47:51", "level": "INFO", "message": "Started receiving incoming notifications."}
+{"time": "2024-09-07 10:50:00", "level": "INFO", "message": "Stopped receiving incoming notifications."}
+{"time": "2024-09-07 10:50:10", "level": "INFO", "message": "Deleted old incoming notifications."}
+{"time": "2024-09-07 10:50:10", "level": "INFO", "message": "Started receiving incoming notifications."}
